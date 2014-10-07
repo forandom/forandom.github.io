@@ -4,7 +4,7 @@
   <title><![CDATA[Transformation]]></title>
   <link href="http://forandom.github.io/atom.xml" rel="self"/>
   <link href="http://forandom.github.io/"/>
-  <updated>2014-10-07T02:18:16+08:00</updated>
+  <updated>2014-10-07T16:18:50+08:00</updated>
   <id>http://forandom.github.io/</id>
   <author>
     <name><![CDATA[Xingxing Pan]]></name>
@@ -12,5 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://forandom.github.io/blog/2014/10/07/test-post/"/>
+    <updated>2014-10-07T13:25:55+08:00</updated>
+    <id>http://forandom.github.io/blog/2014/10/07/test-post</id>
+    <content type="html"><![CDATA[<p>Hello, this is my first post!!</p>
+
+<p>Try code snippets.</p>
+
+<script type="math/tex; mode=display">f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}</script>
+
+<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span>Code&#8217;s title</span><a href="http://forandom.github.com">some link mark:1,4-5 </a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+<span class="line-number">4</span>
+<span class="line-number">5</span>
+<span class="line-number">6</span>
+<span class="line-number">7</span>
+<span class="line-number">8</span>
+<span class="line-number">9</span>
+</pre></td><td class="code"><pre><code class="C++"><span class="line"><span class="cp">#include &lt;iostream&gt;</span>
+</span><span class="line">
+</span><span class="line"><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+</span><span class="line">
+</span><span class="line"><span class="kt">int</span>
+</span><span class="line"><span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span><span class="o">*</span> <span class="n">argv</span><span class="p">[])</span> <span class="p">{</span>
+</span><span class="line">  <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">&quot;Hello World</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">;</span>
+</span><span class="line">  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class="line"><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+]]></content>
+  </entry>
   
 </feed>

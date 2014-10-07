@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | Transformation]]></title>
+  <link href="http://forandom.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://forandom.github.io/"/>
+  <updated>2014-10-07T16:18:50+08:00</updated>
+  <id>http://forandom.github.io/</id>
+  <author>
+    <name><![CDATA[Xingxing Pan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://forandom.github.io/blog/2014/10/07/test-post/"/>
+    <updated>2014-10-07T13:25:55+08:00</updated>
+    <id>http://forandom.github.io/blog/2014/10/07/test-post</id>
+    <content type="html"><![CDATA[<p>Hello, this is my first post!!</p>
+
+<p>Try code snippets.</p>
+
+<script type="math/tex; mode=display">f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}</script>
+
+<p>&#8220;`C++ Code’s title http://forandom.github.com some link mark:1,4-5 
+#include <iostream></iostream></p>
+
+<p>using namespace std;</p>
+
+<p>int
+main(int argc, char* argv[]) {
+  cout « “Hello World\n”;
+  return 0;
+}
+&#8220;`</p>
+]]></content>
+  </entry>
+  
+</feed>
