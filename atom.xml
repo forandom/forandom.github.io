@@ -4,7 +4,7 @@
   <title><![CDATA[Transformation]]></title>
   <link href="http://forandom.github.io/atom.xml" rel="self"/>
   <link href="http://forandom.github.io/"/>
-  <updated>2014-10-07T16:59:23+08:00</updated>
+  <updated>2014-10-07T18:31:43+08:00</updated>
   <id>http://forandom.github.io/</id>
   <author>
     <name><![CDATA[Xingxing Pan]]></name>
@@ -19,6 +19,8 @@
     <updated>2014-10-07T13:25:55+08:00</updated>
     <id>http://forandom.github.io/blog/2014/10/07/test-post</id>
     <content type="html"><![CDATA[<p>Hello, this is my first post!!</p>
+
+<p><img src="http://placekitten.com/890/280" /></p>
 
 <p>Try code snippets.</p>
 
